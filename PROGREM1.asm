@@ -1,0 +1,10 @@
+;Anubhav Jain
+;22BIT0210
+;Q1
+MOV BX,0122H
+MOV CX,0127H
+ADD BX,CX
+
+
+
+
